@@ -1,0 +1,9 @@
+"Gravity" is a Pong-type game based on keeping the pong game culture in an unknown planet.
+
+Originally Made in 48 hours for PC version which can be found in the link below 
+
+http://gamejolt.com/games/gravity/61252
+
+This game is a kind of extension of the tutorial made by Brackeys, which can be found in the link below
+
+https://www.youtube.com/playlist?list=PLPV2KyIb3jR4_IYZY2V0G3IUYcx1zZkJe

@@ -1,0 +1,108 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2993]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Pong_extended\Test_games\pong_alpha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Pong_extended\Test_games\pong_alpha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Pong_extended\Test_games\pong_alpha_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Pong_extended\Test_games\pong_alpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.562030 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 162.
+Total: 1.306829 ms (FindLiveObjects: 0.024101 ms CreateObjectMapping: 0.024101 ms MarkObjects: 0.146616 ms  DeleteObjects: 0.008368 ms)
+
+Platform assembly: D:\Pong_extended\Test_games\pong_alpha_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.353486 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 240.
+Total: 0.618267 ms (FindLiveObjects: 0.015398 ms CreateObjectMapping: 0.011381 ms MarkObjects: 0.139921 ms  DeleteObjects: 0.025775 ms)
+
+UnloadTime: 8.165342 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 1.877563 ms (FindLiveObjects: 0.018410 ms CreateObjectMapping: 0.025440 ms MarkObjects: 0.322021 ms  DeleteObjects: 0.051215 ms)
+
+UnloadTime: 1.008910 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 1.321893 ms (FindLiveObjects: 0.019414 ms CreateObjectMapping: 0.026444 ms MarkObjects: 0.326037 ms  DeleteObjects: 0.015732 ms)
+
+UnloadTime: 1.025312 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 219.
+Total: 1.283397 ms (FindLiveObjects: 0.018745 ms CreateObjectMapping: 0.026444 ms MarkObjects: 0.296915 ms  DeleteObjects: 0.008033 ms)
+
+UnloadTime: 0.999202 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 1.327583 ms (FindLiveObjects: 0.019749 ms CreateObjectMapping: 0.026779 ms MarkObjects: 0.339762 ms  DeleteObjects: 0.006694 ms)
+
+UnloadTime: 1.133099 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 214.
+Total: 1.266660 ms (FindLiveObjects: 0.018410 ms CreateObjectMapping: 0.026109 ms MarkObjects: 0.318673 ms  DeleteObjects: 0.016402 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.063807 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 582.
+Total: 1.987024 ms (FindLiveObjects: 0.050545 ms CreateObjectMapping: 0.038160 ms MarkObjects: 0.827480 ms  DeleteObjects: 0.025775 ms)
+
+UnloadTime: 2.107530 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 209.
+Total: 2.049285 ms (FindLiveObjects: 0.024770 ms CreateObjectMapping: 0.034813 ms MarkObjects: 0.315326 ms  DeleteObjects: 0.756849 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.102637 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 1.683748 ms (FindLiveObjects: 0.051550 ms CreateObjectMapping: 0.038495 ms MarkObjects: 0.636008 ms  DeleteObjects: 0.023431 ms)
+
